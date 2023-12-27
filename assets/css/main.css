@@ -1,0 +1,86 @@
+.app {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+  }
+.img-responsive{
+  max-width: 100%;
+  height: auto;
+  padding-left: 52vh;
+}
+.app_container{
+  padding-left: 8%;
+  padding-top: 5%;
+}
+.header_title-h3{
+  font-size:50px;
+}
+.header_title-bot{
+  margin-bottom: 20%;
+}
+.auth_form{
+  display: flex;
+  height: 3rem;
+}
+.auth_form-input-s1{
+  border-left: white;
+  border-top: white;
+  border-right: white;
+  border-bottom: 1px solid #bbb8b8;
+}
+.auth_form-input-s5{
+  margin-left: 5%;
+  margin-top: 1rem;
+  border-left: white;
+  border-top: white;
+  border-right: white;
+  border-bottom: 1px solid #bbb8b8;
+}
+.auth_form-input-s2{
+  width: 25.6rem;
+  height: 3rem;
+  margin-top: 1rem;
+  border-left: white;
+  border-top: white;
+  border-right: white;
+  border-bottom: 1px solid #bbb8b8;
+}
+.auth_form-input-s3{
+  width: 25.6rem;
+  height: 3rem;
+  margin-top: 1rem;
+  margin-top: 1rem;
+  border-left: white;
+  border-top: white;
+  border-right: white;
+  border-bottom: 1px solid #bbb8b8;
+}
+.auth_form-control{
+  padding-top: 2rem;
+}
+.auth_form-sign{
+  width: 25.1rem;
+  height: 3rem;
+  background-color: var(--orange-color);
+  border: 1px solid white;
+}
+.auth_form-fb{
+  width: 25.1rem;
+  height: 3rem;
+  background-color: rgb(97, 140, 233);
+  border: 1px solid white;
+}
+.auth_form-control-fb{
+  padding-top: 1rem;
+}
+.header_s2{
+  display: flex;
+  
+}
+.header_s2-log{
+  padding-top: 1rem;
+}
+.header_s2-login{
+  color: var(--orange-color);
+}
